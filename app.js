@@ -80,6 +80,7 @@ function playGame() {
 
     console.log(`Player won: ${humScore} games.` );
     console.log(`Computer won: ${compScore} games.`);
+    
 }
 
 playGame();
